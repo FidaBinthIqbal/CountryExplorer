@@ -40,7 +40,7 @@ This project focuses on clean architecture, server/client separation, and API in
 
 1️⃣ Clone the repository
 
-git clone https://github.com/FidaBinthIqbal/country-explorer.git
+git clone https://github.com/FidaBinthIqbal/CountryExplorer.git
 cd country-explorer
 
 2️⃣ Install dependencies
